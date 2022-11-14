@@ -4,11 +4,11 @@ The config allows you to use 3 n!n, one for the dongle, one for the left half, o
 
 Config contains [Watchman's layout](https://github.com/aroum/Watchman-layouts).
 
-This is a config for [Enki 42](https://www.reddit.com/r/ErgoMechKeyboards/comments/qeq2qg/enki42_slim_ergo_keyboard/), but you can use it with corne or any other compatible keyboard.
+This is a config for Corne, but you can use it with corne or any other compatible keyboard.
 
 
 
-You can change the name in line
+You can change the name in line(changed to 'Corne')
 ```
 CONFIG_ZMK_KEYBOARD_NAME="Enki42"
 ```
