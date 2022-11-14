@@ -13,3 +13,5 @@ include:
     shield: enki42_right
   - board: nrfmicro_13
     shield: enki42_dongle
+  - board: nrfmicro_13
+    shield: settings_reset
